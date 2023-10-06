@@ -15,9 +15,11 @@ section {
 .container {
     width: 1140px;
     height: 453.672px;
+    display: flex;
+    justify-content: center;
     margin: auto;
-    padding-left: 33px;
-    padding-right: 32px;
+    /* padding-left: 33px;
+    padding-right: 32px; */
     padding-top: 157.2px;
     padding-bottom: 124.42px;
 }
@@ -68,6 +70,7 @@ section {
 .row {
     width: 1135px;
     height: 172px;
+margin: ;
     display: flex;
     justify-content: space-between;
     margin: auto;
